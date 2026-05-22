@@ -27,6 +27,11 @@ const techStack: TechCategory[] = [
     icon: '🗄️',
     items: ['MongoDB', 'MySQL', 'PostgreSQL', 'Firebase'],
   },
+   {
+    name: 'WordPress',
+    icon: '🗄️',
+    items: ['Elementor Pro', 'ACF', 'WooCommerce', 'WordFence' ,"WP Rocket",'Hostinger'],
+  },
   {
     name: 'DevOps & Cloud',
     icon: '☁️',
